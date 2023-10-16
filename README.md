@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi There!
+
+### I'm Joseph Masson, a Computer Science student at Georgia Tech, studying Information Internetworks and Systems Architecture
+
+### These are some of the projects I've done for school, hackathons, and more!
+
+### For more information, you can look at my LinkedIn
+
+### ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **josephmasson26/josephmasson26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
