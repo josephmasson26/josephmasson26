@@ -14,7 +14,10 @@ For more information, you can find me on LinkedIn
 ) ![ide](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Github Stats
-![stats](https://github-readme-activity-graph.cyclic.app/graph?username={josephmasson26})
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmasson26)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmasson26)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **josephmasson26/josephmasson26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
