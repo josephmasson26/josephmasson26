@@ -3,7 +3,7 @@ I'm Joseph Masson, a Computer Science student at Georgia Tech, studying Informat
 
 These are some of the projects I've done for school, hackathons, and more!
 
-For more information, you can find me on LinkedIn
+For more information, you can find me on LinkedIn.
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
