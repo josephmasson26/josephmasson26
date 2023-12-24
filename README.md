@@ -1,10 +1,10 @@
-<p align="left">Hi There!</p>
 
-###
+
+# Hi There!
 
 <p align="left">I'm Joseph Masson, a undergraduate student at Georgia Institute of Technology, studying Computer Science with a focus on Information Internetworks and Systems Architecture.<br><br>I'm also studying Information and Technology Management and Business Analytics.<br><br>Here are my developer stats, tech stack, and some more fun things about me. Below are the projects that I've done for school, hackathons, or personal use!<br><br>Reach out to my socials here:</p>
 
-###
+## Socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jhmusm21/" target="_blank">
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Tech Stack</p>
+## Tech Stack:
 
 ###
 
@@ -107,7 +107,7 @@
 
 ###
 
-<p align="left">Stats</p>
+## Stats:
 
 ###
 
@@ -119,13 +119,13 @@
 
 ###
 
-<p align="left">Trophies</p>
+## Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=josephmasson26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/ucufjfmwk3t10cgd1g99pd1m4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucufjfmwk3t10cgd1g99pd1m4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -133,7 +133,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/josephmasson26/count.svg?"  />
 </div>
 
