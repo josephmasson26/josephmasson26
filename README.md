@@ -126,14 +126,6 @@
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/ucufjfmwk3t10cgd1g99pd1m4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ucufjfmwk3t10cgd1g99pd1m4&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
   <img src="https://profile-counter.glitch.me/josephmasson26/count.svg?"  />
 </div>
 
