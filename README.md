@@ -2,7 +2,7 @@
 
 # Hi There!
 
-<p align="left">I'm Joseph Masson, a undergraduate student at Georgia Institute of Technology, studying Computer Science with a focus on Information Internetworks and Systems Architecture.<br><br>I'm also studying Information Technology Management and Business Analytics.<br><br>Here are my developer stats, tech stack, and some more fun things about me. Below are the projects that I've done for school, hackathons, or personal use!<br><br>Reach out to my socials here:</p>
+<p align="left">I'm Joseph Masson, a undergraduate student at Georgia Institute of Technology, studying Computer Science with a focus on Cybersecurity and Privacy and Information Internetworks.<br><br>I'm also studying Information Technology Management.<br><br>Here are my developer stats, tech stack, and some more fun things about me. Below are the projects that I've done for school, hackathons, or personal use!<br><br>Reach out to my socials here:</p>
 
 ## Socials:
 
