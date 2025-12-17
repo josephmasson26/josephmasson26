@@ -1,13 +1,11 @@
 # Hi There!
 
 ## About Me:
-I'm a B.S. Computer Science undergraduate at Georgia Institute of Technology, specializing in Cybersecurity and Privacy and Information Internetworks. 
+Hi, I'm Joseph! I graduated from Georgia Institute of Technology with B.S. Computer Science in December 2026. My specializations were Cybersecurity and Information Internetworks. 
 
-Previous technical experience as Software Development Engineer Intern at Amazon in Nashville, TN, Summer 2025. I developed a service in Typescript and Python to support machine learning infrastructure.
+I have previous technical experience as Software Development Engineer Intern at Amazon in Nashville, TN, Summer 2025. 
 
-I participate in research on campus in Cyber-Physical Systems with the school of Electrical and Computer Engineering. I am a Senior Developer for iOS Club and member of GreyHat Security Club. I was a Program and Teaching Assistant in Barcelona with the College of Computing's undergraduate study abroad program, instructing Introduction to Databases (CS 4400) and Discrete Math (CS 2050).
-
-I am currently serving as a Head Resident Advisor (GT HRL) at Georgia Tech.
+My other experiences are being a Head Resident Advisor, being a Teaching Assistant for databases, participating in Cyber-Physical Systems research, and serving as a Senior Developer for iOS Club.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josephmasson26&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
